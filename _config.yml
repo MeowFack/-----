@@ -1,89 +1,107 @@
 #page title
-page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : Reading List                                          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id                                : 1234793120                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                : 1217139955                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
-presskit_download_link                    : https://emilbaehr.com                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
+#presskit_download_link                    : https://emilbaehr.com                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
-app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Write a short tagline for your app.
+app_icon                                  : /assets/AppIcon.svg                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_name                                  : Reading List                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_price                                 :                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_description                           : Track and catalog books you read.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
 
 # Information About Yourself
-your_name                                 : Emil Baehr                                
-your_link                                 : https://emilbaehr.com                     
-your_city                                 : Copenhagen                                
-email_address                             : emil.baehr@gmail.com
-facebook_username                         :                                           
-instagram_username                        : ebaehr
-twitter_username                          : ebaehr
-github_username                           : emilbaehr
-youtube_username                          :
+your_name                                 : Andrew Bennet                                
+your_link                                 : https://andrewbennet.com                     
+#your_city                                 : London                      
+email_address                             : feedback@readinglist.app
+#facebook_username                         :                                           
+#instagram_username                        : ebaehr
+twitter_username                          : AndrewBennet
+github_username                           : AndrewBennet
+#youtube_username                          :
+stackoverflow_username                    : 5513562/andrew-bennet
 
+
+faqs:
+
+  - title: Are there ads or charges?
+    description: "Nope! There are no ads or charges. If you do want to contribute to the development of the app, you can make a donation via an in-app purchase. This doesn't unlock any extra features: it's purely to help contribute to the costs of developing an iOS app (resources, test devices, Apple developer subscription, etc)."
+
+  - title: Can you see my data?
+    description: "Nope! Your book data stays on your own device – I never see users' book data. The app is open source, so anyone can <a href='https://github.com/AndrewBennet/ReadingList'>check in the source code</a> if they wish. The app does send crash reports and some anonymous usage statistics – how many times the various features of the app are used – via <a href='https://firebase.google.com/docs/analytics'>Google Firebase Analytics</a>, to help me work out what features to prioritise. If you'd rather not have this information sent, you can opt-out in Settings > General."
+
+  - title: Can I contribute to the app?
+    description: "Absolutely! The app is open source, and I'd welcome contributions from anyone familiar with iOS app development in Swift. A few released features have been contributed by other developers. If you have an idea for a feature you'd like to add, feel free to contact me to discuss, or raise an <a href='https://github.com/AndrewBennet/ReadingList/issues'>issue on GitHub</a>."
+
+  - title: How is it different from Goodreads?
+    description: "Goodreads is a useful app, but there few negatives when using it as a reading journal:<ul>
+    <li>It requires continuous internet connectivity to use. If offline (for example if on a plane or subway), it can't be used.</li>
+    <li>The process of logging a book's start or finish date, or moving a book between shelves, takes multiple taps, often with loading screens between each tap.</li>
+    <li>There are many more features than the book journal features. This means it can be quite confusing to use.</li>
+    </ul>
+    Reading List was developed out of a frustration of these kind of issues! The app is fully functional while offline, and has been developed to make the journal interaction aspects as simple and quick as possible.
+    "
+
+  - title: How can I move my books between my iPhone and iPad?
+    description: "I haven't developed automatic syncing functionality – yet. I am working on this though. For now, you can move your data between devices using the Export and Import functionality. In the app, navigate to the Setting screen, then navigate to the Import / Export screen. When you tap on Export, the app will generate a CSV spreadsheet with the details about all of your books. You can then send it to your other device (via AirDrop, Email, etc). On the other device, open the file using Reading List, and the app will give you the option to import the books contained in the file. For any book with a Google Books ID, the app will attempt to download a book cover."
+
+  - title: Why can't I find the book I'm looking for?
+    description: "The online book metadata lookup is provided by Google Books. Google Books does not index every ISBN that exists for a given book, so sometimes the barcode scan functionality will not find the book. In those cases, however, another edition of the book can be found by searching for the ISBN – if this occurs, tap Yes when asked if you wish to perform a more general search.
+
+    If the book cannot be found even when performing a general search, it may be that Google Books does not know about the book. In this case, the book metadata may have to be entered manually into the app."
+
+#  - title: How Can I Copy My Books From My Previous System?
+#    description: "If you've been using some other app or system to catalog your books, you might want to import your historical reading into Reading List. To do this, you'll need to generate a CSV spreadsheet of your book data. "
 
 
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : magic
-    
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+  - title                                 : Easily Find Books
+    description                           : Add your books by scanning a barcode, or by searching online
+    fontawesome_icon_name                 : search
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : Full Metadata Control
+    description                           : All metadata is fully editable
+    fontawesome_icon_name                 : pencil-alt
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
+  - title                                 : Track Your Reading
+    description                           : Log start and finish dates for each book
+    fontawesome_icon_name                 : calendar-alt
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
-  
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Take Notes
+    description                           : Add star ratings and notes to every book
     fontawesome_icon_name                 : star
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
+  - title                                 : Record Current Position
+    description                           : Add your current page or percentage for books currently reading
+    fontawesome_icon_name                 : stopwatch
 
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
+  - title                                 : Import and Export Data
+    description                           : Export to, or import from, a simple CSV file
+    fontawesome_icon_name                 : file-upload
 
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
-
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
-
-
+  - title                                 : Free & Open
+    description                           : Completely free, with no ads, and open source
+    fontawesome_icon_name                 : smile
 
 # Theme Settings
-topbar_color                              : "#000000"
-topbar_transparency                       : 0.1
-topbar_title_color                        : "#ffffff"
+topbar_color                              : "#ecf0f1"
+topbar_transparency                       : 1
+topbar_title_color                        : "#000000"
 
-cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
-cover_overlay_color                       : "#363b3d"
-cover_overlay_transparency                : 0.8
+#cover_image                               : https://media.istockphoto.com/photos/bookstore-public-old-library-creativity-concept-picture-id943322510                    # Replace with alternative image path or image URL.
+cover_overlay_color                       : "#ffffff"
+cover_overlay_transparency                : 0
 
 device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
 
@@ -91,9 +109,9 @@ body_background_color                     : "#ffffff"
 
 link_color                                : "#1d63ea"
 
-app_title_color                           : "#ffffff"
-app_price_color                           : "#ffffff"
-app_description_color                     : "#ffffff"
+app_title_color                           : "#000000"
+app_price_color                           : "#000000"
+app_description_color                     : "#000000"
 
 feature_title_color                       : "#000000"
 feature_text_color                        : "#666666"
@@ -105,14 +123,6 @@ social_icons_foreground_color             : "#666666"
 social_icons_background_color             : "#e6e6e6"
 
 footer_text_color                         : "#666666"
-
-
-
-
-
-
-
-
 
 
 

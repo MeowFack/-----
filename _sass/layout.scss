@@ -12,7 +12,6 @@
 	background-size: cover;
 	background-position: top;
 	border-radius: 0px 0px 40px 40px;
-
 }
 
 .headerBackground {
@@ -109,7 +108,7 @@ header {
 	color: $header-title-color;
 	white-space: nowrap;
 	display: flex;
-	font-weight: bold;
+	font-weight: 600;
 	margin-left: 15px;
 }
 

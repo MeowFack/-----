@@ -5,56 +5,41 @@ include_in_header: false
 ---
 
 **Last updated**  
-August 1 2019
+January 17 2019
 
 # Privacy Policy
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
 
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
+## Summary
+Reading List is a free, open-source app, developed by Andrew Bennet. Reading List does not actively collect any data about the books you add. It does, however, use some third-party services to report app crashes, and to track some usage analytics. These can both be disabled within the app. It also uses a third-party service to provide a source of book metadata, and contains links to some third-party websites; when used, these services may additionally collect some data. This privacy policy provides information about how this data is used. If you have any questions, please email feedback@readinglist.app.
 
-<br>
+## Data Collected By Reading List
+### Crash Reports
+In order to improve the stability of the app, a service is used to detect and report any crashes which may occur. This information is collected by a third party service Crashlytics, provided by Fabric; for full details you should consult the privacy policy of Fabric Crashlytics. Any reported crash will include some device information - such as the model, the app version, the iOS version and the amount of free RAM and storage space - as well as details of the code which was being executed at the point that the app crashed. On very rare occasions, error details may include more specific information, such as a piece of metadata from a book, if that information is related to the crash. This information is not used for any purposes other than diagnosing app bugs to enable them to be fixed and thus provide a more stable service. Additionally, this service reports the aggregate total number of users of the app, in order to calculate the percentage occurance of each crash. You can opt out of this data collection at Settings &rarr; General &rarr; Enable Crash Reports.
 
-## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
+### Analytics
+In order to assess the comparative usage of different app features, a service is used to report some key app actions. This information is collected by a third party service called Google Firebase Analytics; for full details you should consult the privacy policy of Google Firebase. This information is tracked for the puposes of determining which features are more frequently used, and so should be more actively developed. This service reports some device information, including the device model, iOS version and approximate location (e.g. country). This service reports user navigation through different screens within the app, as well as some specific in-app events, including:
 
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
+- Performing an online search
+- Scanning a barcode
+- Adding a book manually
+- Updating book metadata manually
+- Changing the theme
+- Changing the book sort order
+- Exporting data to CSV
+- Importing data from CSV
 
-### 1.2 Information you provide to us 
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
+Please note that none of these events include any information about any of your books. For example, the _Online Search_ event reports that a book was added via an online search, but not any details of that new book, nor the search terms used. You can opt out of this data collection at Settings &rarr; General &rarr; Enable Analytics.
 
-<br>
+## Data Collected By Other Services
 
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
+### Book Search Data
+When adding books via a method which looks up book metadata online, that data is obtained from Google Books. If you scan a barcode, the ISBN from the barcode is provided to Google Books in order to obtain book metadata. If you search online, your search terms are provided to Google Books in order to obtain book metadata. This service may also collect some other information from your device, such as the IP address and model number. For details, consult the Google Books Privacy Policy.
 
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
+### Links to Other Sites
+This app contains some links to third-party websites. If you click on a link to an third-party website, you will be directed to that site. These external sites are not operated by me, and thus you should review the Privacy Policy of these websites. The sites linked to by this app include: links to the licence agreements of third-party code libraries, links to books on Google Books, links to books on Amazon, a link to the source code of this app on GitHub, and links to Apple's TestFlight beta testing platform.
 
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
+## Changes to This Privacy Policy
+I may update our Privacy Policy from time to time. You should review policy for any changes; I will notify you of any changes by updating the new Privacy Policy on this page. These changes are effective immediately.
 
-<br>
-
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
-
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
-
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
-
-<br>
-
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
-
-<br>
-
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+## Contact
+If you have any questions or suggestions about this Privacy Policy, do not hesitate to contact me at feedback@readinglist.app.
