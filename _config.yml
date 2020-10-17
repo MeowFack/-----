@@ -59,6 +59,9 @@ faqs:
 
     If the book cannot be found even when performing a general search, it may be that Google Books does not know about the book. In this case, the book metadata may have to be entered manually into the app."
 
+  - title: Can I record re-reads of a book?
+    description: "Unfortunately not – this a current limitation. In future, you will be able to record multiple reading log entries for each book."
+
 #  - title: How Can I Copy My Books From My Previous System?
 #    description: "If you've been using some other app or system to catalog your books, you might want to import your historical reading into Reading List. To do this, you'll need to generate a CSV spreadsheet of your book data. "
 
