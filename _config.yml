@@ -62,6 +62,9 @@ faqs:
   - title: Can I record re-reads of a book?
     description: "Unfortunately not – this a current limitation. In future, you will be able to record multiple reading log entries for each book."
 
+  - title: How do I add a Widget to my iPhone homescreen?
+    description: "If you are running iOS 14 or later, you can add a widget showing your current or recently finished books to your homescreen. Make sure you have the latest version of Reading List installed, and follow <a href="https://support.apple.com/en-gb/guide/iphone/iphb8f1bf206/ios">the instructions</a> Apple provides to learn how to do so."
+
 #  - title: How Can I Copy My Books From My Previous System?
 #    description: "If you've been using some other app or system to catalog your books, you might want to import your historical reading into Reading List. To do this, you'll need to generate a CSV spreadsheet of your book data. "
 
