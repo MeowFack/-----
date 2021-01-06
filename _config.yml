@@ -99,6 +99,10 @@ features                                  :
     description                           : Export to, or import from, a simple CSV file
     fontawesome_icon_name                 : file-upload
 
+  - title                                 : Backup to iCloud
+    description                           : Automatic iCloud backups, to keep your data safe
+    fontawesome_icon_name                 : cloud
+
   - title                                 : Open Source
     description                           : Free to use and open source
     fontawesome_icon_name                 : smile
