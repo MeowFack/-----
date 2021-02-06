@@ -1,5 +1,5 @@
 #page title
-page_title                                : "Reading List iOS app: track and catalog books you read"                                        # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : "Reading List iOS app: track and plan books to read"                                        # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                : 1217139955                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -12,7 +12,7 @@ playstore_link                            :                                     
 app_icon                                  : /assets/AppIcon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Reading List                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Track and catalog books you read.
+app_description                           : Plan the books your want to read. Keep track of what books you've read and when. Motivate yourself to read more.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -50,9 +50,6 @@ faqs:
     </ul>
     Reading List was developed out of a frustration of these kind of issues! The app is fully functional while offline, and has been developed to make the journal interaction aspects as simple and quick as possible.
     "
-
-  - title: How can I move my books between my iPhone and iPad?
-    description: "I haven't developed automatic syncing functionality – yet. I am working on this though. For now, you can move your data between devices using the Export and Import functionality. In the app, navigate to Setting > Import & Export. When you tap on Export, the app will generate a CSV spreadsheet with the details about all of your books. You can then send it to your other device (via AirDrop, Email, etc). On the other device, open the file using Reading List, and the app will give you the option to import the books contained in the file. For any book with a Google Books ID, the app will attempt to download a book cover."
 
   - title: Why can't I find the book I'm looking for?
     description: "The online book metadata lookup is provided by Google Books. Google Books does not index every ISBN that exists for a given book, so sometimes the barcode scan functionality will not find the book. In those cases, however, another edition of the book can be found by searching for the ISBN – if this occurs, tap Yes when asked if you wish to perform a more general search.
@@ -99,8 +96,8 @@ features                                  :
     description                           : Export to, or import from, a simple CSV file
     fontawesome_icon_name                 : file-upload
 
-  - title                                 : Backup to iCloud
-    description                           : Automatic iCloud backups, to keep your data safe
+  - title                                 : Sync via iCloud
+    description                           : Sync all data across all your devices via iCloud
     fontawesome_icon_name                 : cloud
 
   - title                                 : Open Source
