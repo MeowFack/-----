@@ -34,13 +34,10 @@ stackoverflow_username                    : 5513562/andrew-bennet
 faqs:
 
   - title: Is it free?
-    description: "Yes! Reading List is free to use, has no ads and keeps your data private. If you do want to contribute to the development of the app, you can make a donation via an in-app purchase. This helps contribute to the costs of developing an iOS app (resources, test devices, Apple developer subscription, etc)."
+    description: "Yes – Reading List is free to use, has no ads and keeps your data private. If you do want to contribute to the development of the app, you can make a donation via an in-app purchase. This helps contribute to the costs of developing an iOS app (resources, test devices, Apple developer subscription, etc)."
 
   - title: Can you see my data?
-    description: "Nope! Your book data stays on your own device, and in your private iCloud account (if Backup is configured) – user book data is hidden from me and from anyone else. The app is open source, so anyone can <a href='https://github.com/AndrewBennet/ReadingList'>check in the source code</a> if they wish. The app does send crash reports and some anonymous usage statistics – how many times the various features of the app are used – via <a href='https://firebase.google.com/docs/analytics'>Google Firebase Analytics</a>, to help me work out what features to prioritise. If you'd rather not have this information sent, you can opt-out in Settings > General."
-
-  - title: Can I contribute to the app?
-    description: "Absolutely! The app is open source, and I'd welcome contributions from anyone familiar with iOS app development in Swift. A few released features have been contributed by other developers. If you have an idea for a feature you'd like to add, feel free to contact me to discuss, or raise an <a href='https://github.com/AndrewBennet/ReadingList/issues'>issue on GitHub</a>."
+    description: "Nope! Your book data stays on your own device, and in your private iCloud account (if Backup is configured) – user book data is hidden from me and from anyone else."
 
   - title: How is it different from Goodreads?
     description: "Goodreads is a useful app, but there few negatives when using it as a reading journal:<ul>
@@ -67,6 +64,9 @@ faqs:
 
   - title: Is my data safe?
     description: "Reading List automatically backs up your data to iCloud on a daily basis. So if you lose or replace your device, you'll be prompted to restore your data on the new device. The backup frequency can be configured at Settings > Backup & Restore."
+    
+  - title: Is there an Android version?
+    description: "Unfortunately, there are no plans to develop an Android version of Reading List: the app is only available on iPhone and iPad."
 
 #  - title: How Can I Copy My Books From My Previous System?
 #    description: "If you've been using some other app or system to catalog your books, you might want to import your historical reading into Reading List. To do this, you'll need to generate a CSV spreadsheet of your book data. "
