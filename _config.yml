@@ -103,10 +103,6 @@ features                                  :
     description                           : Automatic iCloud backups, to keep your data safe
     fontawesome_icon_name                 : cloud
 
-  - title                                 : Open Source
-    description                           : Free to use and open source
-    fontawesome_icon_name                 : smile
-
 # Theme Settings
 topbar_color                              : "#ecf0f1"
 topbar_transparency                       : 1
