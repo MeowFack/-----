@@ -88,16 +88,12 @@ input[type='checkbox'] {
   padding: 1rem;
 
   color: #ffffff;
-  background: #278CC1;
+  background: #4F9FF0;
 
   cursor: pointer;
 
   border-radius: 7px;
   /*transition: all 0.25s ease-out;*/
-}
-
-.lbl-toggle:hover {
-  color: #dddddd;
 }
 
 .lbl-toggle::before {

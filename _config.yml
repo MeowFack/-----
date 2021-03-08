@@ -76,9 +76,9 @@ features                                  :
     description                           : Add your books by scanning a barcode, or by searching online
     fontawesome_icon_name                 : search
 
-  - title                                 : Full Metadata Control
-    description                           : All metadata is fully editable
-    fontawesome_icon_name                 : pencil-alt
+  #- title                                 : Full Metadata Control
+  #  description                           : All metadata is fully editable
+  #  fontawesome_icon_name                 : pencil-alt
 
   - title                                 : Track Your Reading
     description                           : Log start and finish dates for each book
@@ -96,13 +96,9 @@ features                                  :
     description                           : Export to, or import from, a simple CSV file
     fontawesome_icon_name                 : file-upload
 
-  - title                                 : Sync via iCloud
+  - title                                 : iCloud Sync
     description                           : Sync all data across all your devices via iCloud
     fontawesome_icon_name                 : cloud
-
-  - title                                 : Open Source
-    description                           : Free to use and open source
-    fontawesome_icon_name                 : smile
 
 # Theme Settings
 topbar_color                              : "#ecf0f1"
