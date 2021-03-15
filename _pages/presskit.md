@@ -31,7 +31,7 @@ Reading List is available on iOS and iPadOS. The app is fully functional offline
 
 ## Version 2.0
 
-Version 2.0 is Reading List's biggest update. New features include:
+Version 2.0 is Reading List's biggest update; it will be released on Wednesday 7th April 2021. New features include:
 
 - **iCloud Sync**  
 When enabled, changes made on one device will be propagated to other devices in real-time using iCloud, keeping all devices seamlessly in sync. The iCloud sync functionality has been written from scratch to achieve efficient, reliable and high-speed synchronisation.
