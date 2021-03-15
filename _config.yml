@@ -12,7 +12,7 @@ playstore_link                            :                                     
 app_icon                                  : /assets/AppIcon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Reading List                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Plan the books your want to read. Keep track of what books you've read and when. Motivate yourself to read more.
+app_description                           : Plan what to read next.<br/>Keep track of what you've read.<br/>Read more books.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -34,10 +34,10 @@ stackoverflow_username                    : 5513562/andrew-bennet
 faqs:
 
   - title: Is it free?
-    description: "Yes – Reading List is free to use, has no ads and keeps your data private. If you do want to contribute to the development of the app, you can make a donation via an in-app purchase. This helps contribute to the costs of developing an iOS app (resources, test devices, Apple developer subscription, etc)."
+    description: "Reading List is free to use, has no ads and keeps your data private. Some specific features require a one-time payment to unlock Reading List Pro; charging for these features helps support the development of the app."
 
   - title: Can you see my data?
-    description: "Nope! Your book data stays on your own device, and in your private iCloud account (if Backup is configured) – user book data is hidden from me and from anyone else."
+    description: "Nope! Your book data stays on your own device, and in your private iCloud account (if Backup or Sync is configured) – user book data is hidden from me and from anyone else."
 
   - title: How is it different from Goodreads?
     description: "Goodreads is a useful app, but there few negatives when using it as a reading journal:<ul>

@@ -6,11 +6,13 @@ include_in_header: true
 
 # Press Kit
 
+Download the full [Press Kit](../assets/ReadingList_PressKit.zip), containing high resolution app images and screenshots (35MB).
+
 ## About Reading List
 
-Reading List is a lightweight but powerful reading tracker and planner.
+Reading List is a lightweight yet powerful reading tracker and planner.
 
-Reading List is designed to make it incredibly easy to plan what to read, to track your reading progress, and to record the books you have read. Books can be easily added via barcode scan or online search, but all metadata is configurable. Users can add their own notes and ratings, as well as use the powerful organisation functions to create their own named lists of books. Reading List is designed to be minimal and personal experience: there is no social network bolted on, and there is no gamification of the reading experience – just a clear and usable personal book log.
+Reading List is designed to make it incredibly easy to plan what to read, to track your reading progress, and to record information about the books you have read. Books can be easily added via barcode scan or online search, and all metadata is configurable. Users can add their own notes and ratings, and use the powerful organisation functions to create their own lists of books. Reading List is designed to be a clear and usable personal book log.
 
 Reading List is available on iOS and iPadOS. The app is fully functional offline, and when online data synchronises seamlessly between multiple devices via iCloud.
 
@@ -29,40 +31,55 @@ Reading List is available on iOS and iPadOS. The app is fully functional offline
 
 ## Version 2.0
 
-Version 2.0 brings the most requested feature to Reading List: iCloud Sync. For the first time, changes made on one device will be propagated to other devices in real-time.
+Version 2.0 is Reading List's biggest update. New features include:
 
 - **iCloud Sync**  
-Keeps all devices seamlessly in sync in realtime using iCloud. The iCloud sync functionality has been written without use of the Apple provided `NSPersistedCloudKitContainer`, opting instead for a custom-written Sync Engine which means the developer is in full control of the synchronisation, and has been able to achieve efficient, reliable and high-speed synchronisation and tailored merge resolution.
+When enabled, changes made on one device will be propagated to other devices in real-time using iCloud, keeping all devices seamlessly in sync. The iCloud sync functionality has been written from scratch to achieve efficient, reliable and high-speed synchronisation.
 
 - **New Look**  
-Reading List has a new app icon, designed by [Michael Flarup](http://flarup.co/). The icon combines the checkmark motif typical for progress tracking with a book image, to produce a eye-catching and clever icon. The app has also had a UI refresh, with many of the screens being redesigned.
+Reading List has a new app icon, designed by [Michael Flarup](http://flarup.co/). The icon combines the checkmark motif typical for progress tracking with a book image, to produce a smart and eye-catching icon. The app has also had a UI refresh, with many of the screens being redesigned.
+
+- **Customise Appearance**  
+Alternative app icons and theme overrides, for more control over how Reading List looks.
+
+- **Multiple Windows**  
+Support for multiple windows on iPadOS, for more powerful library management on iPad.
 
 - **Reading List Pro**  
-Starting in v2.0, certain new features will require a purchase of Pro membership to unlock. This is a one-time purchase, with no subscription option. All functionality prior to v2.0 will remain free, without limits.
+Introduces a one-time purchase to unlock certain Pro features. All functionality prior to v2.0 will remain free, without limits.
 
-- ••
+- **And more...**  
+Version 2.0 features many improvements and fixes throughout the app.
+
+## Features
+
+- Lookup books by scanning their barcode
+- Find books by searching online
+- Full manual metadata control
+- Record start and finish dates for books you've read
+- Plan what to read next by ordering your To Read books
+- Create custom lists of books
+- Record current page number and see progress visually
+- Add rating and notes to your books
+- Export / import your data to / from CSV for full control
+- Nightly iCloud backup to keep your data safe
+- Quick actions, for fast management of your books
+- Supports widgets, to show your books on your homescreen
 
 ## Loved by Users
 
 Reading List has been exceptionally well received by its users. It is the highest-rated reading tracking app in the App Store, with a 4.8 rating from over 19,000 ratings and reviews.
 
-## Screenshots
+## Image Samples
 
-### App Icon
-<img class="presskit-app-icon" src="../assets/AppIcon_Rounded.png" width="400" />
+For full set of images, download the [Press Kit](../assets/ReadingList_PressKit.zip).
 
-### iPhone Screenshots
-<img class="presskit-screenshot" src="../assets/screenshot/iPhone 11 Pro-0_ToReadList.png" width="300" />
-<img class="presskit-screenshot" src="../assets/screenshot/iPhone 11 Pro-1_BookDetails.png" width="300" />
-<img class="presskit-screenshot" src="../assets/screenshot/iPhone 11 Pro-2_ScanBarcode.png" width="300" />
-<img class="presskit-screenshot" src="../assets/screenshot/iPhone 11 Pro-3_SearchFinished.png" width="300" />
-<img class="presskit-screenshot" src="../assets/screenshot/iPhone 11 Pro-4_BulkEdit.png" width="300" />
-<img class="presskit-screenshot" src="../assets/screenshot/iPhone 11 Pro-5_Organise.png" width="300" />
+<img class="presskit-app-icon" src="../assets/AppIcon_Rounded.png" width="300" />
 
-### iPad Screenshots
-<img class="presskit-ipad-screenshot" src="../assets/screenshot/iPad Pro (9.7-inch)-0_ToReadList.png" width="400" />
-<img class="presskit-ipad-screenshot" src="../assets/screenshot/iPad Pro (9.7-inch)-1_BookDetails.png" width="400" />
-<img class="presskit-ipad-screenshot" src="../assets/screenshot/iPad Pro (9.7-inch)-2_ScanBarcode.png" width="400" />
-<img class="presskit-ipad-screenshot" src="../assets/screenshot/iPad Pro (9.7-inch)-3_SearchFinished.png" width="400" />
-<img class="presskit-ipad-screenshot" src="../assets/screenshot/iPad Pro (9.7-inch)-4_BulkEdit.png" width="400" />
-<img class="presskit-ipad-screenshot" src="../assets/screenshot/iPad Pro (9.7-inch)-5_Organise.png" width="400" />
+
+<img class="presskit-screenshot" src="../assets/PressKit/Screenshots/iPhone/Framed/iPhone_0_ToReadList_framed.png" width="300" />
+<img class="presskit-screenshot" src="../assets/PressKit/Screenshots/iPhone/Framed/iPhone_1_BookDetails_framed.png" width="300" />
+<img class="presskit-screenshot" src="../assets/PressKit/Screenshots/iPhone/Framed/iPhone_3_SearchFinished_framed.png" width="300" />
+
+<img class="presskit-ipad-screenshot" src="../assets/PressKit/Screenshots/iPad/Framed/iPad_0_ToReadList_framed.png" width="900" />
+<img class="presskit-ipad-screenshot" src="../assets/PressKit/Screenshots/iPad/Framed/iPad_2_ScanBarcode_framed.png" width="900" />
