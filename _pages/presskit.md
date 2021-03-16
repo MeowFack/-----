@@ -10,13 +10,13 @@ Download the full [Press Kit](../assets/ReadingList_PressKit.zip), containing hi
 
 ## About Reading List
 
-Reading List is a lightweight yet powerful reading tracker and planner.
+Reading List is a lightweight yet powerful reading tracker and planner, available for iOS and iPadOS.
 
-Reading List is designed to make it incredibly easy to plan what to read, to track your reading progress, and to record information about the books you have read. Books can be easily added via barcode scan or online search, and all metadata is configurable. Users can add their own notes and ratings, and use the powerful organisation functions to create their own lists of books. Reading List is designed to be a clear and usable personal book log.
+Reading List is designed to make it incredibly easy to plan what to read, to track your reading progress, and to record information about the books you have read. Books can be easily added via barcode scan or online search, and all metadata is configurable. Users can add their own notes and ratings, and use the powerful organisation functions to create their own lists of books.
 
-Reading List is available on iOS and iPadOS. The app is fully functional offline, and when online data synchronises seamlessly between multiple devices via iCloud.
+Reading List is designed to be a clear and accessible personal book log; it follows the iOS human interface guidelines to bring a design which is intuitive and beautiful. The app is fully functional when offline; when online data synchronises seamlessly between multiple devices via iCloud. With iOS 14, users can place their books on their homescreen for even faster access.
 
-[//]: # Reading List has been free to use since July 2017, and its passionate userbase has steadily grown since its initial release. Starting with v2.0, scheduled for release April 7th, some new powerful features will be available after a single one-time purchase to unlock Reading List Pro.
+Reading List has been a free app since 2017, and has a growing and passionate userbase. On 7th April 2021, version 2.0 will be released, bringing the biggest updates yet.
 
 ### App Details
 
@@ -31,7 +31,7 @@ Reading List is available on iOS and iPadOS. The app is fully functional offline
 
 ## Version 2.0
 
-Version 2.0 is Reading List's biggest update; it will be released on Wednesday 7th April 2021. New features include:
+Version 2.0 is Reading List's biggest update yet, scheduled for release on Wednesday 7th April 2021. New features include:
 
 - **iCloud Sync**  
 When enabled, changes made on one device will be propagated to other devices in real-time using iCloud, keeping all devices seamlessly in sync. The iCloud sync functionality has been written from scratch to achieve efficient, reliable and high-speed synchronisation.
@@ -63,14 +63,19 @@ Version 2.0 features many improvements and fixes throughout the app.
 - Add rating and notes to your books
 - Export / import your data to / from CSV for full control
 - Nightly iCloud backup to keep your data safe
-- Quick actions, for fast management of your books
+- Realtime iCloud sync across different devices (requires Pro)
+- Conveneient swipe actions and shortcuts, for fast management of your books
 - Supports widgets, to show your books on your homescreen
 
 ## Loved by Users
 
 Reading List has been exceptionally well received by its users. It is the highest-rated reading tracking app in the App Store, with a 4.8 rating from over 19,000 ratings and reviews.
 
-## Image Samples
+## Pricing
+
+Reading List is free to download. Some advanced features are available after unlocking Reading List Pro, which is available at launch for a one-off payment of $9.99 (£9.99).
+
+## Media
 
 For full set of images, download the [Press Kit](../assets/ReadingList_PressKit.zip).
 
