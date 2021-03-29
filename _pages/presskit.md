@@ -45,6 +45,9 @@ Alternative app icons and theme overrides, for more control over how Reading Lis
 - **Multiple Windows**  
 Support for multiple windows on iPadOS, for more powerful library management on iPad.
 
+- **Improved List Management**
+An improved and redesigned screen for management of custom book lists.
+
 - **Reading List Pro**  
 Introduces a one-time purchase to unlock certain Pro features. All functionality prior to v2.0 will remain free, without limits.
 
