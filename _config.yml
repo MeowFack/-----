@@ -36,6 +36,15 @@ faqs:
   - title: Is it free?
     description: "Reading List is free to use, has no ads and keeps your data private. Some specific features require a one-time payment to unlock Reading List Pro; charging for these features helps support the development of the app."
 
+  - title: How often do I need to pay for Reading List Pro?
+    description: "Just once! Reading List Pro is a one-time payment to unlock certain features indefinitely."
+    
+  - title: Do I need to pay for Pro on each of my devices?
+    description: "No: if you purchase Reading List Pro it will be available on all of your devices logged in to your iCloud account."
+
+  - title: Why isn't Pro unlocked after I've paid?
+    description: "If you've paid for Reading List Pro but it is not showing up in the app, tap the Restore button shown on the Reading List Pro screen. This will force the app to check whether the purchase has been completed."
+
   - title: Can you see my data?
     description: "Nope! Your book data stays on your own device, and in your private iCloud account (if Backup or Sync is configured) – user book data is hidden from me and from anyone else."
 
