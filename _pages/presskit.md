@@ -76,7 +76,7 @@ Reading List has been exceptionally well received by its users. It is the highes
 
 ## Pricing
 
-Reading List is free to download. Some advanced features are available after unlocking Reading List Pro, which is available at launch for a one-off payment of $9.99 (£9.99).
+Reading List is free to download. Some advanced features are available after unlocking Reading List Pro, which is available at launch for a one-off payment.
 
 ## Media
 
