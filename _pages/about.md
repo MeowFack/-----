@@ -13,3 +13,4 @@ Reading List has a clear and simple design, with a deliberately concise set of f
 I had the idea for this app in late 2015 after I became frustrated with similar book-tracking apps, such as Goodreads. When I couldn't find an alternative app which I really liked, I took the opportunity to learn about programming on Apple platforms (I program on Microsoft platforms for my day job) in the programming language [Swift](https://swift.org/). Reading List was first released on the App Store in July 2017.
 
 For the latest development updates, or to get in contact about Reading List, follow [@ReadingListApp](https://twitter.com/ReadingListApp) on Twitter.
+
